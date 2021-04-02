@@ -1,0 +1,24 @@
+h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: cyan;
+}
+input {
+    margin: 10px;
+}
+#submit_button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort_button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+div {
+    font-weight: bold;
+    color: lawngreen;
+}
+body {
+    background-color: crimson;
+}
